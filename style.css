@@ -1,0 +1,18 @@
+
+body {
+  font-family: 'Tahoma', sans-serif;
+  background-color: #faf4ff;
+  direction: rtl;
+  margin: 20px;
+}
+h1 {
+  color: #4B0082;
+}
+nav {
+  margin-bottom: 20px;
+}
+nav a {
+  margin: 0 10px;
+  text-decoration: none;
+  color: #4B0082;
+}
